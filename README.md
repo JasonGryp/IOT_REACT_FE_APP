@@ -5,13 +5,13 @@ To run this project you will need Node.js
 Installation Instructions:
 Clone this repository to your local machine and run:
 
-  npm install
+  -npm install
 
 to install all dependencies.
 
 After that you can run :
 
-  npm start
+  -npm start
   
 to start the local server where you can view the react application.
 
