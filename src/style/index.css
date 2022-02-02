@@ -1,0 +1,29 @@
+#header{
+    display: flex;
+    flex-direction: row;
+    /*These are for the wrapper div*/
+    max-width: 80%;
+    margin: auto;
+    /**/
+
+}
+#header > div:last-child{
+    margin-left:auto;
+}
+.primary{
+    background-color: rgba(0, 194, 255, 1);
+    color:white;
+}
+.secondary{
+    background-color: white;
+    color: rgba(0, 194, 255, 1);
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+body{
+    overflow: hidden;
+}

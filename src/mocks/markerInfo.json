@@ -1,0 +1,31 @@
+{
+  "station_id": 1,
+  "name": "Tesla Supercharger",
+  "latitude": 38.32447723,
+  "longitude": 21.86919166,
+  "schedule": "24 hour",
+  "notes": null,
+  "weather": null,
+  "nearby_restrooms": "cafe",
+  "photos_rep": null,
+  "chargers": [
+    {
+      "charger_id": 1,
+      "status": "in use",
+      "cost": 0,
+      "kW": 120,
+      "quantity": 2,
+      "available": 1,
+      "type": "CCS"
+    },
+    {
+      "charger_id": 2,
+      "status": "free",
+      "cost": 0,
+      "kW": 22,
+      "quantity": 2,
+      "available": 2,
+      "type": "Type 2"
+    }
+  ]
+}
